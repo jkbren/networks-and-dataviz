@@ -35,6 +35,8 @@ Follow along in the jupyter notebook [here](https://nbviewer.jupyter.org/github/
 
 Open an issue [here](https://github.com/jkbren/networks_and_dataviz/issues) and we'll add content!
 
+## UPDATE (January, 2020):
+Included at the bottom of the Jupyter notebook above are four new datasets and associated visuals. They require a little more data processing, and some extra packages to install if you don't already have them. They're intened to be illustrative of the cool things you can do with python and matplotlib.
 
 ## Contributors
 
