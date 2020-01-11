@@ -10,9 +10,9 @@ Not quite sure what "clone the repo" means? Here's what to do:
 
 1. Open up a terminal window and navigate to the folder where you expect to do your coding (in this example "CODE") `cd ~/Desktop/CODE/`
 
-2. Clone the repository: `git clone https://github.com/jkbren/network-tutorial-csss19`
+2. Clone the repository: `git clone https://github.com/jkbren/networks_and_dataviz`
 
-3. Navigate into the repository: `cd network-tutorial-csss19`
+3. Navigate into the repository: `cd networks_and_dataviz`
 
 4. Install the software: `pip install -r requirements.txt`
 
@@ -23,17 +23,17 @@ Not quite sure what "clone the repo" means? Here's what to do:
 To install the software for this tutorial, clone the repo and run the following:
 
 ```
-cd network-tutorial-csss19
+cd cd networks_and_dataviz
 pip install -r requirements.txt
 ```
 
 ### 3. "I don't want to live-code this tutorial."
 
-Follow along in the jupyter notebook [here](https://nbviewer.jupyter.org/github/jkbren/network-tutorial-csss19/blob/master/01_CSSS19-network-tutorial.ipynb?flush_cache=true)!
+Follow along in the jupyter notebook [here](https://nbviewer.jupyter.org/github/jkbren/networks_and_dataviz/blob/master/network-tutorial.ipynb?flush_cache=true)!
 
 # Want us to cover something?
 
-Open an issue [here](https://github.com/jkbren/network-tutorial-csss19/issues) and we'll add content!
+Open an issue [here](https://github.com/jkbren/networks_and_dataviz/issues) and we'll add content!
 
 
 ## Contributors
