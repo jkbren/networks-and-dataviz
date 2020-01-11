@@ -23,7 +23,7 @@ Not quite sure what "clone the repo" means? Here's what to do:
 To install the software for this tutorial, clone the repo and run the following:
 
 ```
-cd cd networks_and_dataviz
+cd networks_and_dataviz
 pip install -r requirements.txt
 ```
 
@@ -46,4 +46,3 @@ Open an issue [here](https://github.com/jkbren/networks_and_dataviz/issues) and 
 
 - [Matteo Chinazzi](https://github.com/mattk7)
 - [Qian Zhang](https://www.zhangqianrach.org/)
-
