@@ -40,7 +40,7 @@ Included at the bottom of the Jupyter notebook above are four new datasets and a
 
 ## Contributors
 
-- Al Kirkley [@akirkle](https://github.com/akirkle)
+- Al Kirkley [@aleckirkley](https://github.com/aleckirkley)
 - Hunter Wapman [@hneutr](https://github.com/hneutr)
 - Brennan Klein [@jkbren](https://github.com/jkbren)
 
